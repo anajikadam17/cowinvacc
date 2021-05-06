@@ -13,7 +13,7 @@ setup(
   version='0.0.1',
   description='Cowin Tracker for Covid-19 vaccine usng CoWin APIs.',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
-  url='',  
+  url='https://github.com/anajikadam17/cowinvacc.git',  
   author='anajikadam17',
   author_email='anajikadam17@gmail.com',
   license='MIT', 
