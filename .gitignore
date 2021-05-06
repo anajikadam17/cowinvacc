@@ -1,0 +1,3 @@
+Venv/*
+*.egg-info/
+dist/
