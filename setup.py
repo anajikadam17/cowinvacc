@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='cowinvacc',
-  version='0.0.1',
+  version='0.0.2',
   description='Cowin Tracker for Covid-19 vaccine usng CoWin APIs.',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='https://github.com/anajikadam17/cowinvacc.git',  
